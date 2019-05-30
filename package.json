@@ -1,0 +1,22 @@
+{
+  "name": "familia-payment-gateway",
+  "version": "1.0.0",
+  "description": "Payment gateway module for familia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/familia-kl/familia-payment-gateway.git"
+  },
+  "author": "akhilkm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/familia-kl/familia-payment-gateway/issues"
+  },
+  "homepage": "https://github.com/familia-kl/familia-payment-gateway#readme",
+  "dependencies": {
+    "razorpay": "^2.0.4"
+  }
+}
